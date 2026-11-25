@@ -144,7 +144,7 @@ Vanuit gelijkwaardigheid en respect; de waardigheid van kinderen en gezinnen sta
 - Bijbelcitaat tussen enkele aanhalingstekens; spatie na de dubbele punt in de verwijzing: *Spreuken 19: 17*, *Deuteronomium 14: 28-29*.
 - Bijbel met hoofdletter, behalve een exemplaar (*je eigen bijbel*).
 - Kerkstromingen met hoofdletter, een specifieke gemeente niet (*de protestantse kerk waar ik naartoe ging, is deel van de Protestantse Kerk Nederland*).
-- Hoofdletters: God, Jezus, Heilige Geest, Zoon van God, Schepper, Heer/HEER, Drie-enige · U, Uw, Gij, Ik, Mij, Mijn, Hij, Hem, Zijn · Gods woord, evangelie, Tora, Oude/Nieuwe Testament, bijbelboek, bijbeltekst · tien geboden, Hemel, avondmaal, koninkrijk, Gods stem · kerst, Pasen, eerste kerstdag, tweede paasdag, kerstboom, paasdienst, pinksterfeest. Hoofdletters in citaten niet aanpassen.
+- Hoofdletters: God, Jezus, heilige Geest, Zoon van God, Schepper, Heer/HEER, Drie-enige · U, Uw, Gij, Ik, Mij, Mijn, Hij, Hem, Zijn · Gods woord, evangelie, Tora, Oude/Nieuwe Testament, bijbelboek, bijbeltekst · tien geboden, Hemel, avondmaal, koninkrijk, Gods stem · kerst, Pasen, eerste kerstdag, tweede paasdag, kerstboom, paasdienst, pinksterfeest. Hoofdletters in citaten niet aanpassen.
 
 **Citaten**
 - Dubbele aanhalingstekens; punt binnen: *"Ik kan nu lezen en schrijven."*

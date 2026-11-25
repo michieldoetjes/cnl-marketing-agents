@@ -2,7 +2,7 @@
 
 ## Bronnen (leidend, in deze volgorde)
 1. Stijlgids Compassion Nederland 2025 – TODO: pad of link naar de (openbare/interne) stijlgids
-2. Skill `contentskippy` – toon, segmenttoon en vertaling (TODO: map kopiëren naar `.claude/skills/contentskippy/`)
+2. Skill `contentskippy` (`.claude/skills/contentskippy/`) – toon, segmenttoon en vertaling
 3. Compassion NL Design System – kleuren uit `Compassion_RGB kleuren.ase` gaan altijd voor; Figma-designsystem als referentie
 4. Beleid kinderbescherming en beeldgebruik – TODO: link naar intern beleid
 
